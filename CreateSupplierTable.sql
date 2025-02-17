@@ -1,0 +1,4 @@
+CREATE TABLE Supplier (
+SupplierID INT PRIMARY KEY IDENTITY(1,1),
+SupplierName VARCHAR(50) NOT NULL,
+);

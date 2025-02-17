@@ -1,0 +1,3 @@
+SELECT * 
+FROM Tea 
+WHERE TeaID = 2;
